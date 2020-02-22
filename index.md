@@ -40,8 +40,9 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 备案号 [陕ICP备19006595号-1](http://www.beian.miit.gov.cn/)
 
+<!-- FOOTER  -->
 <div id="footer_wrap" class="outer">
   <footer class="inner">
-    <p>备案号： <a href="http://www.beian.miit.gov.cn/">备案号</a></p>
+    <p>备案号： <a href="http://www.beian.miit.gov.cn/">陕ICP备19006595号-1</a></p>
   </footer>
 </div>
