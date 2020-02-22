@@ -1,9 +1,1 @@
 theme: jekyll-theme-slate
-
-<!-- FOOTER  -->
-    <div id="footer_wrap" class="outer">
-      <footer class="inner">
-        
-        <p>备案号 <a href="http://www.beian.miit.gov.cn/">陕ICP备19006595号-1</a></p>
-      </footer>
-    </div>
